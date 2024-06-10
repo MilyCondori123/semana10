@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+p.p1{
+    background-color: rgb(43, 226, 220);
+    text-align: justify;
+/*margin: 30px;*/
+margin-top: 30px;
+margin-bottom: 35px;
+margin-left: 10px;
+margin-right: 25px;
+
+}
+p.p2{
+    background-color: bisque;
+    text-align: justify;
+    /*margin:top bottom left right*/
+   /* margin: 10px 20px 30px 20px;*/
+
+
+   /*margin: 10px 25px 30px*/
+   /*margin: 10px 25px 30px;*/
+
+    /*margin:top7bottom left/right*/
+    margin: 10px 25px;
+}
